@@ -1,0 +1,10 @@
+[
+  {
+    "caption": "Crates: Insert a new dependency",
+    "command": "insert_crate"
+  },
+  {
+    "caption": "Crates: Fetch versions",
+    "command": "fetch_crates_versions"
+  }
+]
